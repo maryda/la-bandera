@@ -1,0 +1,35 @@
+body {
+	margin: 10;
+}
+
+
+.yellow1{
+	background-color:#FFD700; 
+	height: 100px;
+	width: 200px;
+	padding: 10px;
+	margin-right: 20px;
+	margin-left: 20px;
+	display: inline;
+
+	
+}
+
+.red{
+	background-color: #FF0000;
+	height: 100px;
+	width: 200px;
+	padding: 10px;
+	margin-right: 20px;
+	display: inline;
+}
+
+.yellow2{
+	background-color:#FFD700; 
+	height: 100px;
+	width: 200px;
+	padding: 10px;
+	margin-right: 10px;
+	display: inline;
+
+}

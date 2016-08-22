@@ -1,0 +1,39 @@
+body {
+	margin: 0;
+}
+
+
+.yellow1{
+	background-color:#FFD700; 
+	height: 100px;
+	width: 200px;
+	margin-bottom: 10px;
+	margin-right: 20px;
+	margin-left: 20px;
+	padding: 10px;
+	display:inline-block;
+	
+}
+
+.red{
+	background-color: #FF0000;
+	height: 100px;
+	width: 200px;
+	margin-bottom: 10px;
+	margin-right: 20px;
+	margin-top: 20px;
+	padding: 10px;
+	display:inline-block;
+}
+
+.yellow2{
+	background-color:#FFD700; 
+	height: 100px;
+	width: 200px;
+	margin-bottom: 10px;
+	margin-right: 20px;
+	margin-right: 20px;
+	padding: 10px;
+	display:inline-block;
+
+}
